@@ -3,8 +3,7 @@
 Melody - IKS is a research codebase for fundamental-frequency extraction and
 tonic-relative swara mapping in vocal Indian Classical Music (ICM). It supports
 the conference paper **"A Multi-Paradigm Comparative Study on Fundamental
-Frequency Extraction and Swara Mapping in Indian Classical Music"** by Keshav
-Raj.
+Frequency Extraction and Swara Mapping in Indian Classical Music"**.
 
 The project compares pitch-tracking paradigms that are useful for Hindustani
 music, where continuous glides, gamakas, tanpura resonance, and performer-
