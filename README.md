@@ -49,6 +49,10 @@ Chroma Accuracy, while the harmonic-salience / CRNN representation gives the
 highest Overall Accuracy because of stronger voicing discrimination. These
 values are preserved in `paper_scores.csv`.
 
+## Validation Figure
+
+![Quantitative evaluation across Saraga tracks showing individual models versus the weighted consensus ensemble](assets/saraga_hindustani_validation_graph.png)
+
 ## Repository Layout
 
 - `saraga.py` - dataset loading, pitch estimators, evaluation metrics,
@@ -155,3 +159,21 @@ class dictionary:
 The next planned extensions are transformer-based pitch representations,
 fine-tuned neural melody estimators for Indian Classical Music, and stronger
 dynamic tonic tracking for long-form raga performance analysis.
+
+## Acknowledgements
+
+I express my sincere gratitude to my project supervisor and mentor, Dr. Yeshwant
+Singh, for invaluable guidance and continuous encouragement throughout the
+course of this work. I am also thankful to Dr. Anupam Biswas, Principal
+Investigator of the Indian Knowledge Systems (IKS) project, for the opportunity
+to work on this project.
+
+This work was carried out as part of the Indian Knowledge Systems (IKS)
+Internship Program, and I gratefully acknowledge the support of the IKS
+Division, Ministry of Education, Government of India, under whose initiative
+this internship and the project were made possible.
+
+This work is part of the research project titled "Analyzing the Raag Origins of
+Indian Traditional Folk Music", funded under the grant number:
+2-146/IKS2.0/InternshipProgram/2026-27/102 by the IKS Division, Ministry of
+Education, Government of India.
