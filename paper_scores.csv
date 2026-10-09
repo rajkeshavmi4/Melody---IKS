@@ -1,0 +1,6 @@
+Model Paradigm,RPA (%),RCA (%),VR (%),VFA (%),OA (%)
+Traditional ML (RF),54.80,64.94,69.57,44.47,55.14
+DSP/Probabilistic (YIN),59.49,81.60,97.60,55.07,51.54
+Harmonic Template (SWIPE),66.03,72.64,83.21,60.12,54.88
+CRNN / Salience Rep.,73.14,79.61,90.55,46.76,62.59
+Consensus Ensemble,74.05,85.05,99.50,86.72,50.31

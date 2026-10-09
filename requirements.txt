@@ -1,0 +1,9 @@
+librosa
+matplotlib
+mirdata
+numpy
+pandas
+pytest
+scikit-learn
+scipy
+torch

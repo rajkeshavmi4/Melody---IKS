@@ -1,0 +1,18 @@
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+.cache/
+.ipynb_checkpoints/
+
+# Local PDF extraction scratch file
+paper.txt
+
+# Local datasets and generated bulk artifacts. Keep these outside git and
+# recreate/download them when running full experiments.
+data/
+saraga1.5_hindustani/
+saraga_hindustani/
+orchset/
+saraga_spectrograms/
+saraga_spectrograms_smoke/
